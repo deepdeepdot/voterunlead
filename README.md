@@ -2,19 +2,19 @@
 
 ### Pages
 
-https://voterunlead.org/events/ (Emmilie)
-https://voterunlead.org/about/ (Pedro)
-https://voterunlead.org/stories-testimonials/
-https://voterunlead.org/about/team/ (Rosa)
-https://voterunlead.org/about/board-of-directors/
-https://voterunlead.org/about/advisory-board-2/
-https://voterunlead.org/leaders/in-the-news-3/ (e
+* https://voterunlead.org/events/ (Emmilie)
+* https://voterunlead.org/about/ (Pedro)
+* https://voterunlead.org/stories-testimonials/
+* https://voterunlead.org/about/team/ (Rosa)
+* https://voterunlead.org/about/board-of-directors/
+* https://voterunlead.org/about/advisory-board-2/
+* https://voterunlead.org/leaders/in-the-news-3/ (e
 
 
 ### Maintainer
 
-|Page                      |Maintainer    |Global Elements
-|--------------------------------------------------------------------------
+| Page                       | Maintainer    | Global Elements
+| ----------------------------------------------------------------------------
 |events                    |Emmilie       |Search, Menu, "donate", "register", "don't miss out", Footer
 |about                     |Pedro         |Search, Menu, Campaigning buttons, "donate", "join now", "don't miss out", Footer
 |stories-testimonials      |              |
