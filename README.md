@@ -14,14 +14,14 @@
 ### Maintainer
 
 | Page                       | Maintainer    | Global Elements
-| ----------------------------------------------------------------------------
-|events                    |Emmilie       |Search, Menu, "donate", "register", "don't miss out", Footer
-|about                     |Pedro         |Search, Menu, Campaigning buttons, "donate", "join now", "don't miss out", Footer
-|stories-testimonials      |              |
-|about/team                |Rosa          |Search, Menu, Campaigning buttons, "donate", "join now", "don't miss out", Footer
-|about/board-of-directors  |              |
-|about/advisory-board-2    |              |
-|leaders/in-the-news-3     |              |
+| -------------------------- | ------------- | -----------------------------------
+| events                     | Emmilie       | Search, Menu, "donate", "register", "don't miss out", Footer
+| about                      | Pedro         | Search, Menu, Campaigning buttons, "donate", "join now", "don't miss out", Footer
+| stories-testimonials       |               |
+| about/team                 | Rosa          | Search, Menu, Campaigning buttons, "donate", "join now", "don't miss out", Footer
+| about/board-of-directors   |               |
+| about/advisory-board-2     |               |
+| leaders/in-the-news-3      |               |
 
 
 ### Global components
